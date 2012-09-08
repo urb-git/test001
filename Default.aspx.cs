@@ -13,6 +13,7 @@ public partial class _Default : System.Web.UI.Page
 
     }
 
+    //This method checks support for cookies
     private void CheckCookieSupport()
     {
         // Cookie detection.
